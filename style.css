@@ -1,0 +1,16 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#020617;
+  color:white;
+}
+
+.clock{
+  background:#0f172a;
+  padding:40px;
+  border-radius:10px;
+  font-size:32px;
+}

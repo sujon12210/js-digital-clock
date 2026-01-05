@@ -1,2 +1,8 @@
-# js-digital-clock
-Digital clock using JavaScript
+# JavaScript Digital Clock
+
+A real-time digital clock built using JavaScript.
+
+This project demonstrates:
+- Date object usage
+- setInterval
+- Real-time DOM updates
